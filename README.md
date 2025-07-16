@@ -15,11 +15,20 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **Voice Bridge – A learning app for children**
-- 🌱 Currently learning: **Flutter | AI | Firebase | UI/UX**
-- 👯 Open to collaborate on: **Flutter-based apps & AI-integrated projects**
-- 💬 Ask me about: **Flutter, Dart, Firebase, Mobile UI/UX**
+- 🏆 **2nd Runners-Up** at **Geeky Solutions Learnathon 3.0**, selected among **top 169 teams out of 1000+**, sponsored by Brain Station 23.
+- 🧠 Successfully built **Voice Bridge** — a completed cross-platform cognitive learning app for children with autism, recognized for its **innovation, inclusivity, and social impact**.
+- 👨‍💻 Developed using:
+  - 🔐 **Firebase Authentication**
+  - ☁️ **Cloud Firestore**
+  - 🔄 **State Management (GetX & MVVM)**
+  - 🌐 **API Integration**
+  - 🎮 **Flame Engine** for interactive mini-games
+  - 🎨 **Lottie animations** and responsive UI/UX
+- 💼 Gained hands-on experience in real-world app development, performance optimization, and professional Flutter workflows.
+- 👯 Looking to collaborate on impactful Flutter-based apps and AI-integrated solutions.
+- 💬 Ask me about: **Flutter, Firebase, Dart, Firestore, App Architecture, UI/UX, Deployment**
 - 📫 Reach me at: **majid.bhuiyan2021@gmail.com**
+
 
 ---
 
