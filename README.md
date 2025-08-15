@@ -20,7 +20,7 @@
 - 👨‍💻 Developed using:
   - 🔐 **Firebase Authentication**
   - ☁️ **Cloud Firestore**
-  - 🔄 **State Management (GetX & MVVM)**
+  - 🔄 **State Management (GetX & Riverpod)**
   - 🌐 **API Integration**
   - 🎮 **Flame Engine** for interactive mini-games
   - 🎨 **Lottie animations** and responsive UI/UX
