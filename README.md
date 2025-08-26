@@ -89,7 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=majidbhuiyan20&show_icons=true&theme=tokyonight" alt="majidbhuiyan20 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majidbhuiyan20&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majidbhuiyan20&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majidbhuiyan20&theme=tokyonight&hide_title=true" alt="GitHub Streak" />
 </p>
 
 ---
