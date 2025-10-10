@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Majid Bhuiyan</h1>
-<h3 align="center">🚀 A Passionate Flutter Developer from Bangladesh</h3>
+<div align="center">
+  
+  <!-- Animated Welcome Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=✨+Welcome+to+my+Profile!;👋+Hi,+I'm+Majid+Bhuiyan;🚀+Flutter+Developer+Extraordinaire;💙+From+Beautiful+Bangladesh" alt="Typing SVG" />
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  
+  <!-- Floating Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mobile%20Apps-Passion%20Project-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Open%20Source-%20❤️-00FF00?style=for-the-badge" />
+  </p>
+  
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=majidbhuiyan20&label=Profile%20views&color=0e75b6&style=flat" alt="majidbhuiyan20" />
