@@ -1,18 +1,22 @@
 <div align="center">
   
   <!-- Animated Welcome Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=✨+Welcome+to+my+Profile!;👋+Hi,+I'm+Majid+Bhuiyan;🚀+A+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=✨+Welcome+to+my+Profile!;👋+Hi,+I'm+Majid+Bhuiyan;Mobile+Application+Developer" alt="Typing SVG" />
   
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   
   <!-- Floating Badges -->
-  <p>
+<p>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mobile%20Apps-Passion%20Project-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-%3DD32F2F.svg?style=for-the-badge&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Open%20Source-%20❤️-00FF00?style=for-the-badge" />
-  </p>
+    
+</p>
+
   
 </div>
 
