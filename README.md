@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Welcome Text with Modern Gradient -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=90&lines=🚀+Welcome+to+my+Developer+Space;👨‍💻+I'm+Majid+Bhuiyan;⚡+Software+Engineer+%7C+Flutter+%7C+Swift+%7C+Go;📱+Mobile+%26+Backend+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+my+Developer+Space;I%27m+Majid+Bhuiyan;Software+Engineer;Flutter+%7C+Swift+%7C+Go;Mobile+%26+Backend+Specialist" alt="Typing SVG" />
+
+
+
 
 <!-- Animated Gradient Divider -->
 <div align="center">
