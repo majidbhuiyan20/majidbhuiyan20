@@ -175,8 +175,27 @@
 <!-- Footer -->
 <div align="center">
   <br>
-  <p><b>💡 Passionate about building scalable solutions with clean architecture</b></p>
-  <p><i>"Code that scales, interfaces that inspire"</i></p>
+
+  <p>
+    <b>💡 Passionate about building high-quality mobile apps & powerful backend systems</b>
+  </p>
+
+  <p>
+    <i>"Crafting smooth UI experiences and robust backend solutions"</i>
+  </p>
+
+  <br>
+
+  <!-- Highlighted Skill Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Backend-⚙️-4B5563?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST%20APIs-🌐-4B5563?style=for-the-badge&logo=swagger&logoColor=white" />
+  </p>
+
+  <br>
 </div>
 
 </div>
