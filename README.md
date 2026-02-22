@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-<!-- Core Expertise Badges -->
+<!-- Core Expertise Badges      -->
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-6366F1?style=for-the-badge&logo=code&logoColor=white&labelColor=0F172A" />
