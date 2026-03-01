@@ -7,7 +7,7 @@
 
 
 
-<!-- Animated Gradient Divider -->
+<!-- Animated Gradient Divider          -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
