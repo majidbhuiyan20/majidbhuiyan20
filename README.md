@@ -109,7 +109,7 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 </td>
 
-    </tr>
+    
   </table>
 </div>
 
